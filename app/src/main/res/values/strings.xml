@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="title_us">US</string>
+    <string name="title_search">Search</string>
+    <string name="title_world">World</string>
+    <string name="title_news">News</string>
+    <string name="title_user">User</string>
+
+
+</resources>

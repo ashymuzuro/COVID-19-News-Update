@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AA2218</color>
+    <color name="colorPrimaryDark">#E32416</color>
+    <color name="colorAccent">#3aa8c1</color>
+    <color name="covid">#E32314</color>
+</resources>
